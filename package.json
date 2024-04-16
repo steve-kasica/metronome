@@ -1,0 +1,14 @@
+{
+  "name": "@stvkas/async-metronome",
+  "main": "38aabaa8d465e7ea@1874.js",
+  "version": "1874.0.0",
+  "homepage": "https://observablehq.com/@stvkas/async-metronome",
+  "author": {
+    "name": "Steve Kasica",
+    "url": "https://observablehq.com/@stvkas"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
